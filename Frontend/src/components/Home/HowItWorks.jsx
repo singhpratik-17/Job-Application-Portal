@@ -14,24 +14,21 @@ const HowItWorks = () => {
               <FaUserPlus />
               <p>Create Account</p>
               <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Consequuntur, culpa.
+               Create your account in JobZee for rapid growth in career and better future scope.
               </p>
             </div>
             <div className="card">
               <MdFindInPage />
               <p>Find a Job/Post a Job</p>
               <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Consequuntur, culpa.
+              Find a Job/Post a Job in JobZee for rapid growth in career and better future scope.
               </p>
             </div>
             <div className="card">
               <IoMdSend />
               <p>Apply For Job/Recruit Suitable Candidates</p>
               <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Consequuntur, culpa.
+              Apply For Job/Recruit Suitable Candidates in JobZee for rapid growth in career and better future scope.
               </p>
             </div>
           </div>

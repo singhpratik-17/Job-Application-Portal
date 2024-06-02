@@ -36,9 +36,7 @@ const HeroSection = () => {
             <h1>Find a job that suits</h1>
             <h1>your interest and skills</h1>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
-              voluptate repellat modi quidem aliquid eaque ducimus ipsa et,
-              facere mollitia!
+            Discover empowering and uplifting motivational quotes to fuel your job search journey. Stay motivated, inspired, and achieve career success.
             </p>
           </div>
           <div className="image">
